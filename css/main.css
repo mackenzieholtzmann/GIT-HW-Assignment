@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.box {
+	background-color: #000;
+	width: 90.625%;
+	margin: 0 auto;
+	height: 100px;
+}
+
